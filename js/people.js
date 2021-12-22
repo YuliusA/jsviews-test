@@ -1,0 +1,1 @@
+$.templates("person", "<label>Name:</label> {{:name}} ");
